@@ -1,0 +1,12 @@
+name: dataRetrival
+
+channels:
+  - default
+  - conda-forge
+  - pypi
+
+dependencies:
+  - python=3.7.12
+  - anndata=0.8.0
+  - pandas
+  - numpy
